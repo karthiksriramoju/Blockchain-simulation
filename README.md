@@ -23,6 +23,6 @@ Follow the steps below to set up and run the blockchain simulation:
 
 3. Run the simulation:
    ```bash
-    node blockchainSimulation.js
+    node blockChainSimulation.js
 
 
